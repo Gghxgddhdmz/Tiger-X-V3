@@ -1,5 +1,5 @@
 if IY_LOADED and not _G.IY_DEBUG == true then
-    -- error("ROBERTO Yield is already running!", 0)
+    -- error("infntie Yield is already running!", 0)
     return
 end
 
@@ -130,7 +130,7 @@ shadow_4 = Instance.new("Frame")
 PopupText_5 = Instance.new("TextLabel")
 Exit_4 = Instance.new("TextButton")
 ExitImage_5 = Instance.new("ImageLabel")
-logs = Instance.new("Frame")
+l = Instance.new("Frame")
 shadow = Instance.new("Frame")
 Hide = Instance.new("TextButton")
 ImageLabel = Instance.new("ImageLabel")
