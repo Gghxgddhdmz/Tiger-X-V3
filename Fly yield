@@ -11,7 +11,7 @@ local closebutton = Instance.new("TextButton")
 local mini = Instance.new("TextButton")
 local mini2 = Instance.new("TextButton")
 
-main.Name = "main"
+main.Name = "قائمة"
 main.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 main.ResetOnSpawn = false
@@ -22,22 +22,22 @@ Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.Position = UDim2.new(0.100320168, 0, 0.379746825, 0)
 Frame.Size = UDim2.new(0, 190, 0, 57)
 
-up.Name = "up"
+up.Name = "فوق"
 up.Parent = Frame
 up.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 up.Size = UDim2.new(0, 44, 0, 28)
 up.Font = Enum.Font.SourceSans
-up.Text = "UP"
+up.Text = "فوق"
 up.TextColor3 = Color3.fromRGB(160, 32, 240)
 up.TextSize = 14.000
 
-down.Name = "down"
+down.Name = "تحت"
 down.Parent = Frame
 down.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 down.Position = UDim2.new(0, 0, 0.491228074, 0)
 down.Size = UDim2.new(0, 44, 0, 28)
 down.Font = Enum.Font.SourceSans
-down.Text = "DOWN"
+down.Text = "تحت"
 down.TextColor3 = Color3.fromRGB(160, 32, 240)
 down.TextSize = 14.000
 
@@ -47,7 +47,7 @@ onof.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 onof.Position = UDim2.new(0.702823281, 0, 0.491228074, 0)
 onof.Size = UDim2.new(0, 56, 0, 28)
 onof.Font = Enum.Font.SourceSans
-onof.Text = "fly"
+onof.Text = "طيران"
 onof.TextColor3 = Color3.fromRGB(160, 32, 240)
 onof.TextSize = 14.000
 
@@ -56,7 +56,7 @@ TextLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.Position = UDim2.new(0.469327301, 0, 0, 0)
 TextLabel.Size = UDim2.new(0, 100, 0, 28)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "صنع روبيرتو"
+TextLabel.Text = "مخصص لكلان IRAQ"
 TextLabel.TextColor3 = Color3.fromRGB(160, 32, 240)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 14.000
