@@ -1,0 +1,381 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+
+local Window = OrionLib:MakeWindow({Name = "( سكربت من صنع روبيرتو 🌀.)", HidePremium = false, SaveConfig = true, ConfigFolder = "(Nawal & SA7 IN TOP.)"})
+
+
+local Tab = Window:MakeTab({
+	Name = "يوزر تيك",
+	Icon = "hassss71",
+	PremiumOnly = false
+})
+
+
+
+local Section = Tab:AddSection({
+	Name = "ضيفني تيك عشان تعرف التحديثات القادمة"
+})
+
+
+
+
+Tab:AddButton({
+	Name = "تيك",
+	Callback = function()
+      		setclipboard("hassss71")
+print("تم نسخ الكلمة للحافظة تلقائيًا!")
+  	end    
+})
+
+
+
+
+
+local Tab = Window:MakeTab({
+	Name = "سكنـات",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+
+
+
+
+
+
+local Section = Tab:AddSection({
+	Name = "راس"
+})
+
+
+
+
+
+Tab:AddButton({
+	Name = "راس مخفي",
+	Callback = function()
+      		print("Clicked")local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 1,
+        [5] = 1,
+        [6] = 134082579
+    },
+    [3] = "Roblox20"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+  	end    
+})
+
+
+
+
+
+
+Tab:AddButton({
+	Name = "راس روبوت ولد + بنت",
+	Callback = function()
+      		print("Clicked")local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 1,
+        [5] = 1,
+        [6] = 3210773801
+    },
+    [3] = "Roblox20"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+  	end    
+})
+
+
+
+
+
+
+
+Tab:AddButton({
+	Name = "راس ووكر الموت",
+	Callback = function()
+      		print("Clicked")local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 1,
+        [5] = 1,
+        [6] = 16580493236
+    },
+    [3] = "Roblox20"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+  	end    
+})
+
+
+
+
+
+Tab:AddButton({
+	Name = "راس الخدين",
+	Callback = function()
+      		print("Clicked")local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 1,
+        [5] = 1,
+        [6] = 746767604
+    },
+    [3] = "Roblox20"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+  	end    
+})
+
+
+
+
+
+
+
+
+local Tab = Window:MakeTab({
+	Name = "🌀 سكـربتـات تحتـاجها 🌀",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+--[[
+Name = <string> - The name of the tab.
+Icon = <string> - The icon of the tab.
+PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+]]
+
+
+
+
+
+
+
+	Tab:AddButton({
+	Name = "💎 سكـربت قـوسـت 💎",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()
+  	end    
+})
+
+
+
+
+
+
+
+Tab:AddButton({
+	Name = "🎃 سـكـربت مشيات 🎃",
+	Callback = function()
+              loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-rochips-universal-18294"))()
+  	end    
+})
+
+
+
+local Section = Tab:AddSection({
+	Name = "🤖 ملاحظة: سكـربت هذا حرفيا فيـه كل شيء حتى رقصـات وسـبام والباقي اكتشفـه بنفسك السكربت اسطوري من الاخر الي هو سكربت مشيات🤖"
+})
+
+
+
+
+
+Tab:AddButton({
+	Name = "💎 سكـربت Shift 💎",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Sector9922/SECTOR-SHIFT-LOCK/main/SECTOR%20SHIFT%20LOCK"))()
+  	end    
+})
+
+
+
+
+
+
+Tab:AddButton({
+	Name = "🎃 سكـربت VR7 🎃",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/VR7ss/OMK/main/VR7%20RAGDOLL"))()
+  	end    
+})
+
+
+
+
+
+local Section = Tab:AddSection({
+	Name = "🌪🕸 عشوائي 🌪🕸"
+})
+
+local Main Tab = Window:CreateTab("اجـسـام 👾", "smile")
+
+local Button = Tab:CreateButton({
+   Name = "راس مـخـفـي (هـيـدلـيس)",
+   Callback = function()
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 1,
+        [5] = 1,
+        [6] = 134082579
+    },
+    [3] = "Roblox20"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "راس الـروبـوت",
+   Callback = function()
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 1,
+        [5] = 1,
+        [6] = 3210773801
+    },
+    [3] = "Roblox20"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = " عـيـون نـاريـه زرقـاء",
+   Callback = function()
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 1,
+        [5] = 1,
+        [6] = 16580493236
+    },
+    [3] = "Roblox20"
+}
+
+local Button = Tab:CreateButton({
+   Name = "رجـل",
+   Callback = function()
+local args = {
+    [1] = "CharacterChange",
+    [2] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 139607718,
+        [5] = 1,
+        [6] = 1
+    },
+    [3] = "Alihub"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+   end,
+})
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Avata1rOrigina1l"):FireServer(unpack(args))
+   end,
+})
+
+local MainTab = Window:CreateTab("الـميـزات 🌟") 
+
+local MainSection = MainTab:CreateSection("قـيـد الـتـحـديـث 🔧")
+
+Rayfield:Notify({
+   Title = "ككسمك يا هيثم يا خنيث ههههه",
+   Content = "  اركب اهلك يبن زنوه يا هيثم",
+   Duration = 5,
+   Image = 13047715178,
+   Actions = { -- Notification Buttons
+      Ignore = {
+         Name = "كسختك يا وسكي يا ديوث",
+         Callback = function()
+         print("The user tapped Okay!")
+      end
+   },
+},
+})
+
+local Button = MainTab:CreateButton({
+   Name = "قـفـز لا نـهـائـي",
+   Callback = function()
+       --Toggles the infinite jump between on or off on every script run
+_G.infinjump = not _G.infinjump
+
+if _G.infinJumpStarted == nil then
+	--Ensures this only runs once to save resources
+	_G.infinJumpStarted = true
+	
+	--Notifies readiness
+	game.StarterGui:SetCore("SendNotification", {Title="Youtube Hub"; Text="Infinite Jump Activated!"; Duration=5;})
+
+	--The actual infinite jump
+	local plr = game:GetService('Players').LocalPlayer
+	local m = plr:GetMouse()
+	m.KeyDown:connect(function(k)
+		if _G.infinjump then
+			if k:byte() == 32 then
+			humanoid = game:GetService'Players'.LocalPlayer.Character:FindFirstChildOfClass('Humanoid')
+			humanoid:ChangeState('Jumping')
+			wait()
+			humanoid:ChangeState('Seated')
+			end
+		end
+	end)
+end
+   end,
+})
+
+local Slider = MainTab:CreateSlider({
+   Name = "الـسـرعـه",
+   Range = {1, 350},
+   Increment = 1,
+   Suffix = "Speed",
+   CurrentValue = 16,
+   Flag = "sliderws", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
+   Callback = function(Value)
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = (Value)
+   end,
+})
+
+local Slider = MainTab:CreateSlider({
+   Name = "الـقـفـز",
+   Range = {1, 350},
+   Increment = 1,
+   Suffix = "Speed",
+   CurrentValue = 16,
+   Flag = "sliderjp", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
+   Callback = function(Value)
